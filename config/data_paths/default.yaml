@@ -1,0 +1,2 @@
+habitat_scene_dir: ${oc.env:HABITAT_SCENE_DIR}
+scene_data_dir: ${oc.env:INSTANCE_NAV_MAP_DIR}

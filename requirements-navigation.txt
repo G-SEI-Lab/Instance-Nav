@@ -1,0 +1,17 @@
+# Install Habitat-Sim/Habitat-Lab, PyTorch and OpenAI CLIP separately
+# with versions compatible with your CUDA and simulator environment.
+h5py
+httpx
+hydra-core
+matplotlib
+numpy
+open3d
+openai
+opencv-python
+Pillow
+pyvisgraph
+PyYAML
+scikit-image
+scikit-learn
+scipy
+shapely
